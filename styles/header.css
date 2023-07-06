@@ -1,0 +1,39 @@
+.header__inner {
+    display: flex;
+    height: 25.18px;
+    margin-bottom: 70px;
+    justify-content: space-between;
+
+
+}
+
+.navigation {
+
+    margin-right: 0;
+    font-size: 18px;
+    line-height: 25px;
+
+
+}
+
+.nav-list {
+    display: flex;
+    gap: 60px;
+    justify-content: end;
+    letter-spacing: -0.03em;
+
+
+
+}
+
+.nav {
+    text-decoration: none;
+    color: #121212;
+
+
+}
+
+.nav:hover {
+    opacity: 50%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
