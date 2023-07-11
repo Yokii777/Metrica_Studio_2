@@ -6,6 +6,7 @@
 @import "/Metrica_Studio/styles/gallery.css";
 @import "/Metrica_Studio/styles/contacts.css";
 @import "/Metrica_Studio/styles/footer.css";
+@import "/Metrica_Studio/styles/popup.css";
 
 html {
   scroll-behavior: smooth;
