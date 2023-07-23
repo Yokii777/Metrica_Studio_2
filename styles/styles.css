@@ -1,13 +1,13 @@
-@import "/Metrica_Studio/styles/header.css";
-@import "/Metrica_Studio/styles/burger.css";
-@import "/Metrica_Studio/styles/welcome-section.css";
-@import "/Metrica_Studio/styles/projects.css";
-@import "/Metrica_Studio/styles/serveces.css";
-@import "/Metrica_Studio/styles/reviews.css";
-@import "/Metrica_Studio/styles/gallery.css";
-@import "/Metrica_Studio/styles/contacts.css";
-@import "/Metrica_Studio/styles/footer.css";
-@import "/Metrica_Studio/styles/popup.css";
+@import "header.css";
+@import "burger.css";
+@import "welcome-section.css";
+@import "projects.css";
+@import "serveces.css";
+@import "reviews.css";
+@import "gallery.css";
+@import "contacts.css";
+@import "footer.css";
+@import "popup.css";
 
 html {
   scroll-behavior: smooth;
