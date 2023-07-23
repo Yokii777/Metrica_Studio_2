@@ -1,4 +1,5 @@
 @import "/Metrica_Studio/styles/header.css";
+@import "/Metrica_Studio/styles/burger.css";
 @import "/Metrica_Studio/styles/welcome-section.css";
 @import "/Metrica_Studio/styles/projects.css";
 @import "/Metrica_Studio/styles/serveces.css";
@@ -16,6 +17,10 @@ body {
   font-family: "Manrope", sans-serif;
   background-color: #ffffff;
   width: 100%;
+}
+
+.body_fixed {
+  overflow: hidden;
 }
 
 h2 {
