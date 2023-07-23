@@ -49,7 +49,7 @@
   flex-direction: column;
   align-items: baseline;
   transition: all 0.8s ease;
-  /* transition-delay: 0.3s; */
+  transition-delay: 0.3s;
 }
 
 .burger__content-open {
@@ -70,8 +70,6 @@
 
 .burger__nav {
   font-size: 25px;
-  /* font-style: normal;
-  font-weight: 400; */
   line-height: normal;
   letter-spacing: -0.75px;
   text-transform: uppercase;
@@ -80,7 +78,6 @@
 .burger__contacts {
   display: flex;
   flex-direction: column;
-  /* text-align: center; */
 }
 
 .burger__contacts-tel {
