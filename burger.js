@@ -10,7 +10,6 @@ const burgerNavNode = document.querySelectorAll('.burger__nav');
 
 burgerBtnNode.addEventListener('click', toggleBurger);
 
-
 burgerNavNode.forEach((burger__nav) => burger__nav.addEventListener('click', toggleBurger));
 
 burgerNode.addEventListener('click', (event) => {
